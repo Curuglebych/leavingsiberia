@@ -1,0 +1,4 @@
+rootProject.name = 'leavingsiberia'
+include 'GameEngine'
+include 'Game'
+

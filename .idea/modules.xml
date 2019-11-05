@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game.iml" filepath="$PROJECT_DIR$/.idea/modules/Game.iml" group="Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameEngine.iml" filepath="$PROJECT_DIR$/.idea/modules/GameEngine.iml" group="GameEngine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameEngine/GameEngine_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameEngine/GameEngine_main.iml" group="GameEngine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameEngine/GameEngine_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameEngine/GameEngine_test.iml" group="GameEngine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game/Game_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game/Game_main.iml" group="Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game/Game_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game/Game_test.iml" group="Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leavingsiberia.iml" filepath="$PROJECT_DIR$/.idea/modules/leavingsiberia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leavingsiberia_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leavingsiberia_main.iml" group="leavingsiberia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leavingsiberia_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leavingsiberia_test.iml" group="leavingsiberia" />
+    </modules>
+  </component>
+</project>
